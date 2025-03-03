@@ -50,6 +50,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codingguru2221/codingguru2221/output/snake.svg" alt="Snake animation" />
   <img src="https://profile-counter.glitch.me/codingguru2221/count.svg?" alt="Profile Views Counter" />
 </div>
