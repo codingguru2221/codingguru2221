@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=codingguru2221&label=Profile%20views&color=0e75b6&style=flat" alt="codingguru2221" /> 
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codingguru2221" alt="codingguru2221" />
-  </a> 
-</p>
-
 - 🔭 I’m currently working on **Online Voting System (Coming Soon...)**
 - 🌱 I’m currently learning **Java (Spring Boot)**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://codingguru2221.github.io/Portfolio/)
