@@ -15,8 +15,9 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://codingguru2221.github.io/Portfolio/)  
 - 📫 How to reach me **codexveer@gmail.com**
 
+---
 
-<h3 align="left">Languages and Tools: </h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -29,6 +30,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+
+---
+
+<h3 align="left">🌟 Featured Projects & Challenges</h3>
+
+### 📦 Inventory Management System
+A simple desktop-based system to manage stock, suppliers, and product details.  
+Tech Stack: Python | SQLite | Tkinter  
+🔗 [View Repository](https://github.com/codingguru2221/Inventory-management-system)
+
+---
+
+### 💻 30 Days Coding Challenge
+A structured journey to enhance coding skills with daily tasks and problems.  
+🔗 [View Repository](https://github.com/codingguru2221/30-days-coding-Challenge)
+
+---
+
+### 🛡️ Cybersecurity Resources
+Curated learning paths and tools focused on practical cybersecurity skills.  
+🔗 [View Repository](https://github.com/codingguru2221/CyberSecurity)
+
+---
+
+🚧 _More exciting projects are on the way... stay tuned!_
 
 ---
 
