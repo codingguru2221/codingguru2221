@@ -4,7 +4,10 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=codingguru2221&label=Profile%20views&color=0e75b6&style=flat" alt="codingguru2221" /> 
 </p>
-
+### 🚀 About Me
+- 🌟 2nd Year Engineering Student
+- 💡 Passionate about AI, Cybersecurity, and Building Tech Solutions
+- 🎯 Currently exploring Spring Boot & Full-Stack Development
 - 🔭 I’m currently working on **Online Voting System (Coming Soon...)**
 - 🌱 I’m currently learning **Java (Spring Boot)**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://codingguru2221.github.io/Portfolio/)
