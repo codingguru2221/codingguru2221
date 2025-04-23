@@ -40,19 +40,18 @@ A simple desktop-based system to manage stock, suppliers, and product details.
 Tech Stack: Python | SQLite | Tkinter  
 🔗 [View Repository](https://github.com/codingguru2221/Inventory-management-system)
 
----
 
 ### 💻 30 Days Coding Challenge
 A structured journey to enhance coding skills with daily tasks and problems.  
 🔗 [View Repository](https://github.com/codingguru2221/30-days-coding-Challenge)
 
----
+
 
 ### 🛡️ Cybersecurity Resources
 Curated learning paths and tools focused on practical cybersecurity skills.  
 🔗 [View Repository](https://github.com/codingguru2221/CyberSecurity)
 
----
+
 
 🚧 _More exciting projects are on the way... stay tuned!_
 
