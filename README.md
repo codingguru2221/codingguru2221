@@ -82,8 +82,3 @@ Curated learning paths and tools focused on practical cybersecurity skills.
   </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/codingguru2221/count.svg?" alt="Profile Views Counter" />
-</div>
