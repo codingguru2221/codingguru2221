@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Veerendra Vishwakarma (The Codex)</h1>
 <h3 align="center">Engineering Enthusiast | Innovator in the Making | Future Tech Trailblazer</h3>
+<h3 align="center"> Exploring Tech Field through Hackathons, TechFests & Conferences</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=codingguru2221&label=Profile%20views&color=0e75b6&style=flat" alt="codingguru2221" /> 
@@ -15,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://codingguru2221.github.io/Portfolio/)  
 - 📫 How to reach me **codexveer@gmail.com**
 
----
+
 
 <h3 align="left">🏆 Hackathon Experience</h3>
 
@@ -23,7 +24,6 @@
 - 💡 **HackPrix** – An innovative hackathon organized by **Lord Institute, Hyderabad**, focused on creativity and problem-solving.  
 - 🚀 **RNTU Tech-Fest Hackathon** – Participated in the flagship **Tech-Fest** hackathon at RNTU, showcasing technical and teamwork skills.  
 
----
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,31 +40,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
----
+
+
 
 <h3 align="left">🌟 Featured Projects & Challenges</h3>
 
-### 📦 Inventory Management System
-A simple desktop-based system to manage stock, suppliers, and product details.  
-Tech Stack: Python | SQLite | Tkinter  
-🔗 [View Repository](https://github.com/codingguru2221/Inventory-management-system)
-
-
-### 💻 30 Days Coding Challenge
-A structured journey to enhance coding skills with daily tasks and problems.  
-🔗 [View Repository](https://github.com/codingguru2221/30-days-coding-Challenge)
+### 🔐 CryptoShield – Pendrive-Based Password Manager
+A hackathon project providing **responsible and portable password security**.  
+User credentials are accessible only when a **registered pendrive** is connected.  
+Tech Stack: Python | Cryptography | Tkinter  
+🔗 [View Repository](https://github.com/codingguru2221/CryptoShield)
 
 
 
-### 🛡️ Cybersecurity Resources
-Curated learning paths and tools focused on practical cybersecurity skills.  
-🔗 [View Repository](https://github.com/codingguru2221/CyberSecurity)
+### 📚 AI-Powered Study Platform
+An educational web app designed to help students with **AI-driven learning**.  
+Features include syllabus creation, smart exam preparation, and study packages.  
+Tech Stack: Flask | Google Gemini API | Python | HTML/CSS/JS  
+🔗 [View Repository](https://github.com/codingguru2221/Study-platform)
+
+
+
+### 🎉 College Event Hub
+A centralized platform to **organize, manage, and promote college events**.  
+Helps students register, get updates, and participate easily in campus events.  
+Tech Stack: Java | Spring Boot | MySQL | React  
+🔗 [View Repository](https://github.com/codingguru2221/College-Event-Hub)
 
 
 
 🚧 _More exciting projects are on the way... stay tuned!_
 
----
+
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
@@ -73,7 +80,7 @@ Curated learning paths and tools focused on practical cybersecurity skills.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingguru2221&theme=dracula&hide_border=false" height="150" alt="Streak Stats"  />
 </div>
 
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
