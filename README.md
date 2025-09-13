@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 🌟 2nd Year Engineering Student  
+- 🌟 3rd Year Engineering Student  
 - 💡 Passionate about AI, Cybersecurity, and Building Tech Solutions  
 - 🎯 Currently exploring Spring Boot & Full-Stack Development  
 - 🔭 I’m currently working on **Online Voting System (Coming Soon...)**  
