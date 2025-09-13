@@ -17,6 +17,15 @@
 
 ---
 
+<h3 align="left">🏆 Hackathon Experience</h3>
+
+- 🥇 **Navonmesh Hackathon** – University-level hackathon organized in collaboration with **RNTU** and **SCOPE University**.  
+- 💡 **HackPrix** – An innovative hackathon organized by **Lord Institute, Hyderabad**, focused on creativity and problem-solving.  
+- 🚀 **RNTU Tech-Fest Hackathon** – Participated in the flagship **Tech-Fest** hackathon at RNTU, showcasing technical and teamwork skills.  
+
+---
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -81,4 +90,3 @@ Curated learning paths and tools focused on practical cybersecurity skills.
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </p>
-
