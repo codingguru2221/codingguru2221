@@ -11,7 +11,7 @@
 - 🌟 3rd Year Engineering Student  
 - 💡 Passionate about AI, Cybersecurity, and Building Tech Solutions  
 - 🎯 Currently exploring Spring Boot & Full-Stack Development  
-- 🔭 I’m currently working on **Online Voting System (Coming Soon...)**  
+- 🔭 I’m currently working on **🔐 CryptoShield - Pendrive-Based Password Manager**  
 - 🌱 I’m currently learning **Java (Spring Boot)**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://codingguru2221.github.io/Portfolio/)  
 - 📫 How to reach me **codexveer@gmail.com**
