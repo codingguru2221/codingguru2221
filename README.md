@@ -80,7 +80,7 @@ Tech Stack: Java | Spring Boot | MySQL | React
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codingguru2221&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingguru2221&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingguru2221&theme=dracula&hide_border=false" height="150" alt="Streak Stats"  />
+
 </div>
 
 
