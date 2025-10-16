@@ -23,7 +23,7 @@
 
 - 🥇 **Navonmesh Hackathon** – University-level hackathon organized in collaboration with **RNTU** and **SCOPE University**.  
 - 💡 **HackPrix** – An innovative hackathon organized by **Lord Institute, Hyderabad**, focused on creativity and problem-solving.  
-- 🏆 **RNTU Tech-Fest Hackathon (Winner)** – Secured **first place** in the flagship **Tech-Fest Hackathon** at **RNTU**, demonstrating exceptional technical expertise and teamwork.  
+- 🏆 **RNTU Tech-Fest Hackathon (Winner)** – Secured **Second Place** in the flagship **Tech-Fest Hackathon** at **RNTU**, demonstrating exceptional technical expertise and teamwork.  
 - 🌿 **EcoCode Hackathon** – Organized by **Bharati Vidyapeeth College of Engineering, Delhi**, focusing on sustainable and eco-friendly coding solutions.
 
 
