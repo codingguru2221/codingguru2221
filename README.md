@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Veerendra Vishwakarma (The Codex)</h1>
+<h1 align="center">Hi 👋, I'm Veerendra Vishwakarma (The COdex)</h1>
 <h3 align="center">Engineering Enthusiast | Innovator in the Making | Future Tech Trailblazer</h3>
 <h3 align="center"> Exploring Tech Field through Hackathons, TechFests & Conferences</h3>
 
