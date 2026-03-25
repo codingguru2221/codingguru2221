@@ -8,6 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=codingguru2221&label=Profile%20views&color=0e75b6&style=flat" alt="codingguru2221" /> 
 </p>
 
+### 🚀 My Startup
+
+🚀 I’m building my own tech platform focused on innovation and real-world solutions.  
+🔗 **Live Now:** [Visit My Startup](https://drrwb8xpmr09p.cloudfront.net/)
+
 ### 🚀 About Me
 
 - 🌟 3rd Year Engineering Student  
